@@ -1,0 +1,327 @@
+date,category,payment_mode,amount
+1-Jan-24,groceries,UPI,155.23
+2-Jan-24,petrol expences,Debit Card,150.45
+3-Jan-24,Food,Cash,65
+4-Jan-24,groceries,Online Payment,115
+5-Jan-24,other expenses,UPI,120.75
+6-Jan-24,petrol expences,Debit Card,220.3
+7-Jan-24,groceries,Online Payment,95.6
+8-Jan-24,other expenses,Cash,88.25
+9-Jan-24,Food,Debit Card,88.25
+10-Jan-24,petrol expences,Online Payment,180.4
+11-Jan-24,groceries,UPI,105.5
+12-Jan-24,petrol expences,Cash,290
+13-Jan-24,groceries,Debit Card,130.1
+14-Jan-24,Food,Online Payment,70
+15-Jan-24,bills,UPI,2450
+16-Jan-24,petrol expences,Debit Card,255.6
+17-Jan-24,groceries,Online Payment,90
+18-Jan-24,other expenses,Cash,80.8
+19-Jan-24,Food,UPI,60.5
+20-Jan-24,petrol expences,Debit Card,199.99
+21-Jan-24,groceries,Online Payment,145.2
+22-Jan-24,other expenses,Cash,120
+23-Jan-24,groceries,UPI,280
+24-Jan-24,petrol expences,Debit Card,180
+25-Jan-24,Food,Online Payment,78.9
+26-Jan-24,groceries,Cash,110
+27-Jan-24,other expenses,UPI,85
+28-Jan-24,petrol expences,Debit Card,215.5
+29-Jan-24,groceries,Online Payment,99.99
+30-Jan-24,Food,Cash,55
+31-Jan-24,other expenses,UPI,150
+1-Feb-24,groceries,Debit Card,140
+2-Feb-24,petrol expences,Online Payment,140
+3-Feb-24,other expenses,Cash,95
+4-Feb-24,groceries,UPI,125
+5-Feb-24,Food,Debit Card,72.5
+6-Feb-24,petrol expences,Online Payment,285
+7-Feb-24,groceries,Cash,108
+8-Feb-24,other expenses,UPI,110
+9-Feb-24,Food,Debit Card,68.75
+10-Feb-24,petrol expences,Online Payment,205.5
+11-Feb-24,groceries,Cash,115
+12-Feb-24,other expenses,UPI,92
+13-Feb-24,petrol expences,Debit Card,230
+14-Feb-24,groceries,Online Payment,140
+15-Feb-24,Food,Cash,80
+16-Feb-24,other expenses,UPI,102.5
+17-Feb-24,petrol expences,Debit Card,175
+18-Feb-24,bills,Net Banking,3100.5
+19-Feb-24,Food,Cash,77.5
+20-Feb-24,groceries,UPI,128
+21-Feb-24,other expenses,Debit Card,150
+22-Feb-24,petrol expences,Online Payment,260
+23-Feb-24,other expenses,Cash,105
+24-Feb-24,groceries,UPI,98.5
+25-Feb-24,Food,Debit Card,62
+26-Feb-24,petrol expences,Online Payment,245
+27-Feb-24,groceries,Cash,112.75
+28-Feb-24,other expenses,UPI,85
+1-Mar-24,other expenses,Debit Card,125
+2-Mar-24,petrol expences,Online Payment,188
+3-Mar-24,Food,Cash,70
+4-Mar-24,groceries,UPI,135
+5-Mar-24,other expenses,Debit Card,160
+6-Mar-24,petrol expences,Online Payment,222
+7-Mar-24,groceries,Cash,99.99
+8-Mar-24,Food,UPI,75.25
+9-Mar-24,other expenses,Debit Card,105
+10-Mar-24,petrol expences,Online Payment,250
+11-Mar-24,groceries,Cash,120
+12-Mar-24,other expenses,UPI,105
+13-Mar-24,Food,Debit Card,88
+14-Mar-24,petrol expences,Online Payment,170.5
+15-Mar-24,groceries,Cash,115.4
+16-Mar-24,other expenses,UPI,95
+17-Mar-24,petrol expences,Debit Card,210
+18-Mar-24,groceries,Online Payment,145
+19-Mar-24,Food,Cash,65
+20-Mar-24,other expenses,UPI,120
+21-Mar-24,petrol expences,Debit Card,275
+22-Mar-24,groceries,Online Payment,102
+23-Mar-24,other expenses,Cash,80
+24-Mar-24,bills,Online Payment,2875.25
+25-Mar-24,petrol expences,Debit Card,235
+26-Mar-24,groceries,Online Payment,118
+27-Mar-24,other expenses,Cash,130
+28-Mar-24,petrol expences,UPI,155
+29-Mar-24,groceries,Debit Card,92.5
+30-Mar-24,Food,Online Payment,60
+31-Mar-24,other expenses,UPI,125
+1-Apr-24,groceries,Debit Card,105
+2-Apr-24,petrol expences,Online Payment,200
+3-Apr-24,other expenses,Cash,110
+4-Apr-24,groceries,UPI,105
+5-Apr-24,Food,Debit Card,75
+6-Apr-24,petrol expences,Online Payment,280
+7-Apr-24,groceries,Cash,145
+8-Apr-24,other expenses,UPI,98
+9-Apr-24,Food,Debit Card,85
+10-Apr-24,petrol expences,Online Payment,190
+11-Apr-24,groceries,Cash,112.5
+12-Apr-24,other expenses,UPI,125
+13-Apr-24,Food,Debit Card,68
+14-Apr-24,petrol expences,Online Payment,265
+15-Apr-24,groceries,Cash,130
+16-Apr-24,other expenses,UPI,110
+17-Apr-24,petrol expences,Debit Card,240
+18-Apr-24,other expenses,Online Payment,150
+19-Apr-24,bills,UPI,4500
+20-Apr-24,Food,UPI,72
+21-Apr-24,petrol expences,Debit Card,205
+22-Apr-24,groceries,Online Payment,120
+23-Apr-24,other expenses,Cash,85
+24-Apr-24,Food,UPI,79.5
+25-Apr-24,petrol expences,Debit Card,185
+26-Apr-24,groceries,Online Payment,98
+27-Apr-24,other expenses,Cash,115
+28-Apr-24,petrol expences,UPI,270
+29-Apr-24,other expenses,Debit Card,115
+30-Apr-24,groceries,Online Payment,135
+1-May-24,Food,Cash,60
+2-May-24,petrol expences,UPI,295
+3-May-24,other expenses,Debit Card,95
+4-May-24,groceries,Online Payment,112
+5-May-24,other expenses,UPI,140
+6-May-24,Food,Cash,80
+7-May-24,petrol expences,Debit Card,165
+8-May-24,other expenses,Online Payment,105
+9-May-24,groceries,UPI,128
+10-May-24,Food,Cash,75
+11-May-24,petrol expences,Debit Card,250
+12-May-24,other expenses,Online Payment,140
+13-May-24,groceries,UPI,105
+14-May-24,Food,Cash,68
+15-May-24,petrol expences,Debit Card,225
+16-May-24,other expenses,Online Payment,110
+17-May-24,groceries,UPI,130
+18-May-24,other expenses,Cash,160
+19-May-24,Food,Debit Card,92
+20-May-24,petrol expences,Online Payment,195
+21-May-24,other expenses,Cash,155
+22-May-24,groceries,UPI,115
+23-May-24,Food,Debit Card,70
+24-May-24,petrol expences,Online Payment,275
+25-May-24,bills,Online Payment,2150.75
+26-May-24,groceries,UPI,145
+27-May-24,other expenses,Debit Card,110
+28-May-24,Food,Online Payment,85
+29-May-24,petrol expences,Cash,210
+30-May-24,other expenses,UPI,120
+31-May-24,groceries,Debit Card,105
+1-Jun-24,other expenses,Online Payment,140
+2-Jun-24,Food,Cash,60
+3-Jun-24,petrol expences,UPI,280
+4-Jun-24,other expenses,Debit Card,85
+5-Jun-24,groceries,Online Payment,120
+6-Jun-24,Food,Cash,72.5
+7-Jun-24,petrol expences,UPI,205
+8-Jun-24,other expenses,Debit Card,115
+9-Jun-24,groceries,Online Payment,99
+10-Jun-24,Food,Cash,88
+11-Jun-24,bills,Debit Card,3500
+12-Jun-24,other expenses,Debit Card,130
+13-Jun-24,groceries,Online Payment,145
+14-Jun-24,Food,Cash,65
+15-Jun-24,petrol expences,UPI,190
+16-Jun-24,other expenses,Debit Card,150
+17-Jun-24,other expenses,Online Payment,100
+18-Jun-24,groceries,Cash,108
+19-Jun-24,Food,UPI,70
+20-Jun-24,petrol expences,Debit Card,260
+21-Jun-24,other expenses,Online Payment,92
+22-Jun-24,groceries,Cash,135
+23-Jun-24,Food,UPI,82
+24-Jun-24,petrol expences,Debit Card,215
+25-Jun-24,other expenses,Online Payment,125
+26-Jun-24,groceries,Cash,98
+27-Jun-24,Food,UPI,75
+28-Jun-24,petrol expences,Debit Card,299
+29-Jun-24,other expenses,Online Payment,110
+30-Jun-24,groceries,Cash,140
+1-Jul-24,other expenses,UPI,120
+2-Jul-24,Food,Debit Card,65
+3-Jul-24,petrol expences,Online Payment,200
+4-Jul-24,bills,Net Banking,4125
+5-Jul-24,groceries,UPI,115
+6-Jul-24,Food,Debit Card,78
+7-Jul-24,petrol expences,Online Payment,255
+8-Jul-24,other expenses,Cash,130
+9-Jul-24,groceries,UPI,105
+10-Jul-24,Food,Debit Card,80
+11-Jul-24,petrol expences,Online Payment,175
+12-Jul-24,other expenses,Cash,95
+13-Jul-24,groceries,UPI,128
+14-Jul-24,Food,Debit Card,68
+15-Jul-24,petrol expences,Online Payment,220
+16-Jul-24,other expenses,Cash,140
+17-Jul-24,groceries,UPI,110
+18-Jul-24,Food,Debit Card,72
+19-Jul-24,petrol expences,Online Payment,280
+20-Jul-24,other expenses,Cash,105
+21-Jul-24,groceries,UPI,98
+22-Jul-24,other expenses,Debit Card,115
+23-Jul-24,Food,Online Payment,85
+24-Jul-24,petrol expences,Cash,190
+25-Jul-24,other expenses,UPI,115
+26-Jul-24,groceries,Debit Card,135
+27-Jul-24,Food,Online Payment,60
+28-Jul-24,petrol expences,Cash,260
+29-Jul-24,other expenses,UPI,92
+30-Jul-24,groceries,Debit Card,120
+31-Jul-24,Food,Online Payment,75
+1-Aug-24,other expenses,UPI,105
+2-Aug-24,petrol expences,Cash,210
+3-Aug-24,other expenses,Debit Card,105
+4-Aug-24,groceries,Online Payment,145
+5-Aug-24,Food,UPI,88
+6-Aug-24,petrol expences,Cash,180
+7-Aug-24,other expenses,Debit Card,130
+8-Aug-24,groceries,Online Payment,110
+9-Aug-24,bills,Online Payment,2050
+10-Aug-24,petrol expences,Cash,245
+11-Aug-24,other expenses,Debit Card,98
+12-Aug-24,groceries,Online Payment,125
+13-Aug-24,Food,UPI,72
+14-Aug-24,petrol expences,Cash,290
+15-Aug-24,other expenses,Debit Card,115
+16-Aug-24,groceries,Online Payment,102
+17-Aug-24,other expenses,UPI,120
+18-Aug-24,Food,Cash,80
+19-Aug-24,petrol expences,Debit Card,225
+20-Aug-24,other expenses,Online Payment,140
+21-Aug-24,groceries,UPI,135
+22-Aug-24,Food,Cash,60
+23-Aug-24,petrol expences,Debit Card,175
+24-Aug-24,other expenses,Online Payment,105
+25-Aug-24,groceries,UPI,95
+26-Aug-24,Food,Cash,78.5
+27-Aug-24,petrol expences,Debit Card,260
+28-Aug-24,other expenses,Online Payment,120
+29-Aug-24,groceries,UPI,118
+30-Aug-24,Food,Cash,85
+31-Aug-24,other expenses,Debit Card,150
+1-Sep-24,other expenses,Online Payment,105
+2-Sep-24,petrol expences,UPI,215
+3-Sep-24,other expenses,Cash,90
+4-Sep-24,groceries,Debit Card,105
+5-Sep-24,Food,Online Payment,68
+6-Sep-24,petrol expences,UPI,270
+7-Sep-24,other expenses,Cash,130
+8-Sep-24,groceries,Debit Card,125
+9-Sep-24,Food,Online Payment,82
+10-Sep-24,petrol expences,UPI,185
+11-Sep-24,other expenses,Cash,105
+12-Sep-24,groceries,Debit Card,140
+13-Sep-24,Food,Online Payment,70
+14-Sep-24,petrol expences,UPI,230
+15-Sep-24,other expenses,Cash,150
+16-Sep-24,groceries,Debit Card,98
+17-Sep-24,bills,UPI,3800
+18-Sep-24,petrol expences,UPI,255
+19-Sep-24,other expenses,Cash,118
+20-Sep-24,groceries,Debit Card,115
+21-Sep-24,Food,Online Payment,60
+22-Sep-24,petrol expences,UPI,199
+23-Sep-24,other expenses,Cash,95
+24-Sep-24,groceries,Debit Card,130
+25-Sep-24,Food,Online Payment,85
+26-Sep-24,petrol expences,UPI,240
+27-Sep-24,other expenses,Cash,120
+28-Sep-24,groceries,Debit Card,105
+29-Sep-24,Food,Online Payment,72.5
+30-Sep-24,other expenses,UPI,145
+1-Oct-24,groceries,Debit Card,120
+2-Oct-24,petrol expences,Online Payment,205
+3-Oct-24,other expenses,Cash,108
+4-Oct-24,groceries,UPI,99
+5-Oct-24,Food,Debit Card,65
+6-Oct-24,petrol expences,Online Payment,290
+7-Oct-24,other expenses,Cash,130
+8-Oct-24,groceries,UPI,115
+9-Oct-24,Food,Debit Card,78.9
+10-Oct-24,petrol expences,Online Payment,170
+11-Oct-24,other expenses,Cash,150
+23-Oct-24,bills,Online Payment,2950
+12-Nov-24,bills,UPI,2500
+13-Nov-24,other expenses,Cash,95
+14-Nov-24,groceries,UPI,128
+15-Nov-24,Food,Debit Card,68
+16-Nov-24,petrol expences,Online Payment,220
+17-Nov-24,other expenses,Cash,140
+18-Nov-24,groceries,UPI,110
+19-Nov-24,Food,Debit Card,72
+20-Nov-24,petrol expences,Online Payment,280
+21-Nov-24,other expenses,Cash,105
+22-Nov-24,groceries,UPI,98
+23-Nov-24,other expenses,Debit Card,115
+24-Nov-24,Food,Online Payment,85
+25-Nov-24,petrol expences,Cash,190
+26-Nov-24,other expenses,UPI,115
+27-Nov-24,groceries,Debit Card,135
+28-Nov-24,Food,Online Payment,60
+29-Nov-24,petrol expences,Cash,260
+30-Nov-24,other expenses,UPI,92
+1-Dec-24,bills,Online Payment,3500
+11-Dec-24,Food,Cash,72
+12-Dec-24,petrol expences,Debit Card,280
+13-Dec-24,other expenses,Online Payment,140
+14-Dec-24,groceries,UPI,98
+15-Dec-24,Food,Cash,85
+16-Dec-24,other expenses,Debit Card,120
+17-Dec-24,other expenses,Online Payment,105
+18-Dec-24,groceries,UPI,135
+19-Dec-24,Food,Cash,60
+20-Dec-24,petrol expences,Debit Card,190
+21-Dec-24,other expenses,Online Payment,125
+22-Dec-24,groceries,UPI,108
+23-Dec-24,other expenses,Cash,150
+24-Dec-24,Food,Debit Card,85
+25-Dec-24,petrol expences,Online Payment,215
+26-Dec-24,other expenses,UPI,118
+27-Dec-24,groceries,Cash,105
+28-Dec-24,Food,Debit Card,78.5
+29-Dec-24,petrol expences,Online Payment,280
+30-Dec-24,other expenses,UPI,125
+31-Dec-24,groceries,Cash,105
