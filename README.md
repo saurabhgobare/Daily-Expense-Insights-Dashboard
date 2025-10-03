@@ -64,8 +64,7 @@ o	This enables deep-dive analysis of spending behavior for each payment method.
 •	Excel – For data storage and preparation.
 
 # Dashboard Preview
-
-
+![Daily Expense Insights Dashboard](https://github.com/saurabhgobare/Vegetable_Price_Insights_Dashboard/blob/main/Dashboard/Vegetable%20Price%20Insights%20Dashboard.png)
 
 # How to Use
 1.	Open the Power BI dashboard file (.pbix).
