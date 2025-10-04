@@ -1,8 +1,8 @@
-## 📊 Daily Expense Insights Dashboard | Personal Finance Analysis  
+## Daily Expense Insights Dashboard | Personal Finance Analysis  
 
----
 
-### 🔹 Project Overview  
+
+### Project Overview  
 The **Daily Expense Insights Dashboard** is an **interactive Power BI project** designed to track, visualize, and analyze **personal financial data**.  
 
 It helps users:  
@@ -12,9 +12,9 @@ It helps users:
 
 This dashboard provides **actionable insights** for effective **personal finance management & budgeting**.  
 
----
 
-### 🔹 Dataset  
+
+### Dataset  
 - **Source**: Combination of **realistic synthetic sample data** + **manually added entries** to resemble actual personal expenses.  
 
 - **Columns**:  
@@ -25,9 +25,9 @@ This dashboard provides **actionable insights** for effective **personal finance
 
 - **Cleaning**: Dataset was **structured & mostly clean**. Only minor manual adjustments were required.  
 
----
 
-### 🔹 Dashboard Components  
+
+### Dashboard Components  
 
 - **Monthly Expense Trend (Line Chart)** → Shows month-to-month expense fluctuations  
 - **Category-wise Expense Distribution (Clustered Column Chart)** → Compare expenses across categories  
@@ -41,47 +41,46 @@ This dashboard provides **actionable insights** for effective **personal finance
 - **Payment Mode Spend Analysis (Clustered Bar Chart)** → Expense per payment method  
 - **Drill-through: Payment Mode Analysis** → Deeper insights into UPI, Cash, Card spending  
 
----
 
-### 🔹 Key Features  
+
+### Key Features  
 - Interactive **Month Slicer** for filtering  
 - Visual insights for **trends, categories, payment modes**  
 - **KPI Cards** for quick spending summaries  
 - **Drill-through functionality** for deeper payment mode analysis  
 - Clean, **intuitive visualizations** for decision-making  
 
----
 
-### 🔹 Business Insights  
+
+### Business Insights  
 - **High-Spending Months** → Useful for budgeting  
 - **Category Contribution** → Food, travel, shopping dominate  
 - **Payment Preferences** → UPI & Cash most used  
 - **Daily Spending Benchmark** → Helps in expense control  
 - **Drill-through Analysis** → Detailed breakdown by payment mode  
 
----
 
-### 🔹 Potential Enhancements  
+
+### Potential Enhancements  
 - Add **year-wise comparisons**  
 - Integrate **budget vs. actual analysis**  
 - Include **forecasting for future expenses**  
 - Add **interactive tooltips** with more details  
 - Enable **report export** for sharing  
 
----
 
-### 🔹 Tools Used  
+
+### Tools Used  
 - **Power BI Desktop** → Dashboard creation  
 - **Excel** → Data storage & preparation  
 
----
 
-### 🔹 Dashboard Preview  
+### Dashboard Preview  
 ![Daily Expense Insights Dashboard](https://github.com/saurabhgobare/Vegetable_Price_Insights_Dashboard/blob/main/Dashboard/Vegetable%20Price%20Insights%20Dashboard.png)  
 
----
 
-### 🔹 How to Use  
+
+### How to Use  
 1. **Download / Clone** this repository  
 2. Open `Daily-Expense-Insights-Dashboard.pbix` in **Power BI Desktop**  
 3. Use the **Month Slicer** to filter  
